@@ -110,7 +110,7 @@ My background bridges cloud architecture and web development — from WordPress 
 ---
 
 
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" style="filter: invert(1);"/> GitHub Stats
+## <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="18"/> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riyazbhattarai07&show_icons=true&theme=tokyonight&hide_border=true" />
