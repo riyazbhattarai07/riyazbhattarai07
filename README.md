@@ -1,52 +1,44 @@
 <div align="center">
-    <img src="./Githubrepo.jpeg" alt="GitHub Repo Banner" width="800" />
+    <img src="./Githubrepo.jpeg" alt="Banner" width="100%" />
+</div>
+
+<div align="center">
+
+<h2>👋 Hey, I'm Riyaz Bhattarai</h2>
+
+<h3>AWS & Terraform Developer &nbsp;·&nbsp; AWS Certified Cloud Practitioner &nbsp;·&nbsp; Pursuing AWS SAA</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
+<p>
+  <a href="mailto:reeeyaz.job@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-1F4E8C?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://tinyurl.com/etwrayek">
+    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white"/>
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Calgary%2C%20AB-Canada-red?style=flat-square&logo=googlemaps&logoColor=white"/>
+</p>
+
 </div>
 
 ---
 
-<h3 align="center">
-AWS Certified Cloud Practitioner | AWS & Terraform Developer | Pursuing AWS SAA
-</h3>
+I design and automate AWS infrastructure — building scalable, secure, and cost-efficient cloud environments using **Terraform and IaC from the ground up**.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/> 
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>  
-</p>
-
-<p align="center">
-  <a href="mailto:reeeyaz.job@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1F4E8C?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://tinyurl.com/etwrayek">
-    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Calgary%2C%20AB-Canada-red?style=flat-square&logo=googlemaps&logoColor=white"/>
-</p>
-
----
-
-
-## Hey there 👋
-
-I'm **Riyaz Bhattarai**, an AWS & Terraform Developer based in Calgary, AB.
-
-I design and automate AWS infrastructure — building scalable, secure, and cost-efficient cloud environments using Terraform and IaC from the ground up.
-
-This is my active build space — real AWS projects, Terraform labs, and cloud architecture experiments. Everything here is hands-on, no filler.
-
----
-
-## 👨‍💻 Who Am I?
-
-I'm an **AWS & Terraform Developer** based in Calgary, AB, with hands-on experience designing and deploying AWS infrastructure that is **scalable, secure, and cost-efficient**.
-
-My background bridges **cloud architecture** and **web development** — I've built production systems from WordPress sites serving 50K+ monthly users to fully automated AWS infrastructure using Terraform and IaC principles. I hold the **AWS Certified Cloud Practitioner** certification and am actively advancing toward the **AWS Solutions Architect Associate**.
+My background bridges cloud architecture and web development — from WordPress sites serving **50K+ monthly users** to fully automated AWS deployments. Currently advancing toward **AWS Solutions Architect Associate** and deepening Terraform expertise through real-world projects.
 
 ```
 🔭 Currently:  Building with Terraform | Preparing for AWS SAA
-🌱 Learning:   Advanced Terraform | AWS networking & architecture patterns
+🌱 Learning:   Advanced Terraform | AWS networking & architecture patterns  
 💼 Open to:    Cloud Engineer | DevOps Engineer | Infrastructure Engineer roles
-📍 Based in:   Calgary, AB (open to remote)
+📍 Based in:   Calgary, AB — open to remote
 ```
 
 ---
@@ -60,21 +52,17 @@ My background bridges **cloud architecture** and **web development** — I've bu
 - Enforced HTTPS via **Route 53 + ACM**; private S3 access via **CloudFront OAC**
 - Follows **AWS Well-Architected Framework** principles across all 5 pillars
 
----
-
 ### ⚡ Auto-Scaling Cost-Saver Lab (AWS + Terraform)
 > **EC2 · Auto Scaling · ALB · CloudWatch**
 
-- Designed an elastic architecture that **scales on demand** using ALB + Auto Scaling groups
+- Elastic architecture that **scales on demand** using ALB + Auto Scaling groups
 - Simulated CPU spikes to validate scale-out triggers via **CloudWatch alarms**
-- Demonstrated automatic scale-in post-load — reducing infrastructure cost with zero manual effort
-
----
+- Automatic scale-in post-load — reduces infrastructure cost with zero manual effort
 
 ### 🤖 Serverless Mood-Bot
 > **AWS Lambda · API Gateway · CloudWatch · Vertex AI**
 
-- Event-driven serverless application with **zero idle compute cost**
+- Event-driven serverless app with **zero idle compute cost**
 - Integrated **Vertex AI** for intelligent response generation
 - Fully observable via **CloudWatch** metrics and logs
 
@@ -82,7 +70,7 @@ My background bridges **cloud architecture** and **web development** — I've bu
 
 ## 🛠️ Tech Stack
 
-**Cloud & Infrastructure**
+**Cloud & IaC**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
@@ -101,7 +89,7 @@ My background bridges **cloud architecture** and **web development** — I've bu
 ![ALB](https://img.shields.io/badge/ALB-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Auto Scaling](https://img.shields.io/badge/Auto%20Scaling-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
-**Other Tools**
+**Other**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
@@ -110,9 +98,25 @@ My background bridges **cloud architecture** and **web development** — I've bu
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=riyazbhattarai07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyazbhattarai07&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=riyazbhattarai07&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
 ## 🏅 Certifications
 
-| Badge | Certification | Issuer | Valid |
+| | Certification | Issuer | Valid |
 |:---:|---|---|---|
 | ☁️ | **AWS Certified Cloud Practitioner** | Amazon Web Services | Jan 2026 – Jan 2029 |
 | 🤖 | **Prompt Design in Vertex AI** | Google | Sep 2024 |
@@ -121,15 +125,12 @@ My background bridges **cloud architecture** and **web development** — I've bu
 
 ---
 
-## 📬 Let's Connect
-
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email%20Me-1F4E8C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reeeyaz.job@gmail.com)
+&nbsp;
 [![Portfolio](https://img.shields.io/badge/My%20Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tinyurl.com/etwrayek)
 
-</div>
-
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1F4E8C&height=120&section=footer" />
+
 </div>
