@@ -5,17 +5,25 @@
 ---
 
 <h3 align="center">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900"/> 
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="25"/> 
 AWS Certified Cloud Practitioner | AWS & Terraform Developer | Pursuing AWS SAA
 </h3>
 
-[![Email](https://img.shields.io/badge/Email-reeeyaz.job%40gmail.com-1F4E8C?style=flat-square&logo=gmail&logoColor=white)](mailto:riyazbhattarai07@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white)](https://tinyurl.com/etwrayek)
-[![Location](https://img.shields.io/badge/Calgary%2C%20AB-Canada-red?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Calgary,AB)
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/> 
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>  
+</p>
 
-</div>
+<p align="center">
+  <a href="mailto:reeeyaz.job@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1F4E8C?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://tinyurl.com/etwrayek">
+    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Calgary%2C%20AB-Canada-red?style=flat-square&logo=googlemaps&logoColor=white"/>
+</p>
+
+---
 
 ---
 
