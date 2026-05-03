@@ -25,7 +25,6 @@ AWS Certified Cloud Practitioner | AWS & Terraform Developer | Pursuing AWS SAA
 
 ---
 
----
 
 ## Hey there 👋
 
