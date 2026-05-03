@@ -111,6 +111,10 @@ My background bridges cloud architecture and web development — from WordPress 
 
 
 
+
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riyazbhattarai07&show_icons=true&theme=tokyonight&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyazbhattarai07&layout=compact&theme=tokyonight&hide_border=true" />
@@ -121,6 +125,8 @@ My background bridges cloud architecture and web development — from WordPress 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=riyazbhattarai07&theme=tokyonight&hide_border=true" />
 </div>
+
+
 
 ---
 
