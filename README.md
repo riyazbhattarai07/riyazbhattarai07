@@ -112,9 +112,7 @@ My background bridges cloud architecture and web development — from WordPress 
 
 ## <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="23"/> GitHub Stats
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=riyazbhattarai07&theme=tokyonight&hide_border=true" />
-</div>
+
 
 <br>
 
