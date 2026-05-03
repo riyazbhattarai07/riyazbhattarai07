@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F4E8C,100:0ea5e9&height=200&section=header&text=Riyaz%20Bhattarai&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descColor=c0d9f0" />
 
 </div>
+![Banner](Githubrepo.jpeg)
 
 ---
 
