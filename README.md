@@ -2,12 +2,11 @@
     <img src="./Githubrepo.jpeg" alt="GitHub Repo Banner" width="800" />
 </div>
 
-
 ---
 
 <div align="center">
 
-### ☁️ AWS Certified Cloud Practitioner &nbsp;|&nbsp; Cloud & DevOps Engineer &nbsp;|&nbsp; Pursuing AWS SAA
+### ☁️ AWS Certified Cloud Practitioner &nbsp;|&nbsp; AWS & Terraform Developer &nbsp;|&nbsp; Terraform & IaC &nbsp;|&nbsp; Pursuing AWS SAA
 
 [![Email](https://img.shields.io/badge/Email-reeeyaz.job%40gmail.com-1F4E8C?style=flat-square&logo=gmail&logoColor=white)](mailto:riyazbhattarai07@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white)](https://tinyurl.com/etwrayek)
@@ -17,14 +16,24 @@
 
 ---
 
+## Hey there 👋
+
+I'm **Riyaz Bhattarai**, an AWS & Terraform Developer based in Calgary, AB.
+
+I design and automate AWS infrastructure — building scalable, secure, and cost-efficient cloud environments using Terraform and IaC from the ground up.
+
+This is my active build space — real AWS projects, Terraform labs, and cloud architecture experiments. Everything here is hands-on, no filler.
+
+---
+
 ## 👨‍💻 Who Am I?
 
-I'm a **Cloud & DevOps Engineer** based in Calgary, AB, with hands-on experience designing and deploying AWS infrastructure that is **scalable, secure, and cost-efficient**.
+I'm an **AWS & Terraform Developer** based in Calgary, AB, with hands-on experience designing and deploying AWS infrastructure that is **scalable, secure, and cost-efficient**.
 
 My background bridges **cloud architecture** and **web development** — I've built production systems from WordPress sites serving 50K+ monthly users to fully automated AWS infrastructure using Terraform and IaC principles. I hold the **AWS Certified Cloud Practitioner** certification and am actively advancing toward the **AWS Solutions Architect Associate**.
 
 ```
-🔭 Currently:  Preparing for AWS SAA | Deepening Terraform & IaC skills
+🔭 Currently:  Building with Terraform | Preparing for AWS SAA
 🌱 Learning:   Advanced Terraform | AWS networking & architecture patterns
 💼 Open to:    Cloud Engineer | DevOps Engineer | Infrastructure Engineer roles
 📍 Based in:   Calgary, AB (open to remote)
@@ -34,7 +43,7 @@ My background bridges **cloud architecture** and **web development** — I've bu
 
 ## 🚀 Featured Projects
 
-### 🏗️ Resume-as-Code Website
+### 🏗️ Resume-as-Code Website (AWS + Terraform)
 > **Terraform · S3 · CloudFront · Route 53 · ACM · IAM · VPC**
 
 - Fully automated static site deployed with **Terraform** — consistent, repeatable infrastructure
@@ -43,7 +52,7 @@ My background bridges **cloud architecture** and **web development** — I've bu
 
 ---
 
-### ⚡ Auto-Scaling Cost-Saver Lab
+### ⚡ Auto-Scaling Cost-Saver Lab (AWS + Terraform)
 > **EC2 · Auto Scaling · ALB · CloudWatch**
 
 - Designed an elastic architecture that **scales on demand** using ALB + Auto Scaling groups
