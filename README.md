@@ -112,8 +112,7 @@ My background bridges cloud architecture and web development — from WordPress 
 
 
 
-
-## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> GitHub Stats
+## <img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github" /> GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riyazbhattarai07&show_icons=true&theme=tokyonight&hide_border=true" />
