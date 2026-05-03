@@ -69,8 +69,8 @@ My background bridges cloud architecture and web development — from WordPress 
 ---
 
 ## 🛠️ Tech Stack
+**Cloud & Infrastructure as Code (IaC)**
 
-**Cloud &  Infrastructure as Code**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
