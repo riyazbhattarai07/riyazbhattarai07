@@ -1,8 +1,4 @@
 <div align="center">
-
-
-  <br><br>
-
   <img src="./Githubrepo.jpeg" alt="GitHub Repo Banner" width="800" />
 </div>
 
