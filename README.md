@@ -70,11 +70,13 @@ My background bridges cloud architecture and web development — from WordPress 
 
 ## 🛠️ Tech Stack
 
-**Cloud & IaC**
-
+**Cloud &  Infrastructure as Code**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **AWS Services**
 
@@ -88,6 +90,15 @@ My background bridges cloud architecture and web development — from WordPress 
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
 ![ALB](https://img.shields.io/badge/ALB-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Auto Scaling](https://img.shields.io/badge/Auto%20Scaling-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![GuardDuty](https://img.shields.io/badge/GuardDuty-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![WAF](https://img.shields.io/badge/WAF-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![Shield](https://img.shields.io/badge/Shield-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![KMS](https://img.shields.io/badge/KMS-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/CloudTrail-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![Config](https://img.shields.io/badge/Config-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![Athena](https://img.shields.io/badge/Athena-4285F4?style=flat-square&logo=amazonaws&logoColor=white)
+![Glue](https://img.shields.io/badge/Glue-4285F4?style=flat-square&logo=amazonaws&logoColor=white)
+![QuickSight](https://img.shields.io/badge/QuickSight-4285F4?style=flat-square&logo=amazonaws&logoColor=white)
 
 **Other**
 
