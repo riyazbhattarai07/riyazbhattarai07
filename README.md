@@ -4,14 +4,11 @@
 
 ---
 
-<div align="center">
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-</p>
-
 <h3 align="center">
-☁️ AWS Certified Cloud Practitioner | AWS & Terraform Developer | Pursuing AWS SAA
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900"/> 
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="25"/> 
+AWS Certified Cloud Practitioner | AWS & Terraform Developer | Pursuing AWS SAA
 </h3>
 
 [![Email](https://img.shields.io/badge/Email-reeeyaz.job%40gmail.com-1F4E8C?style=flat-square&logo=gmail&logoColor=white)](mailto:riyazbhattarai07@gmail.com)
