@@ -9,7 +9,7 @@
 
 ### ☁️ AWS Certified Cloud Practitioner &nbsp;|&nbsp; Cloud & DevOps Engineer &nbsp;|&nbsp; Pursuing AWS SAA
 
-[![Email](https://img.shields.io/badge/Email-reeeyaz.job%40gmail.com-1F4E8C?style=flat-square&logo=gmail&logoColor=white)](mailto:reeeyaz.job@gmail.com)
+[![Email](https://img.shields.io/badge/Email-reeeyaz.job%40gmail.com-1F4E8C?style=flat-square&logo=gmail&logoColor=white)](mailto:riyazbhattarai07@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white)](https://tinyurl.com/etwrayek)
 [![Location](https://img.shields.io/badge/Calgary%2C%20AB-Canada-red?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Calgary,AB)
 
